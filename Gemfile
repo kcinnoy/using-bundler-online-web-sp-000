@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "sinatra"
-gem "Hashie"
+gem "hashie"
 gem "Octokit"
 
 gem 'AwesomePrint', git: 'git@github.com:awesome-print/awesome_print.git'
